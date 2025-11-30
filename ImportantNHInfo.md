@@ -1,4 +1,4 @@
-)# nautichub
+# nautichub
 ###  a hub made by ASH
 __*Games Supported*__
 1. *Prison Life*
